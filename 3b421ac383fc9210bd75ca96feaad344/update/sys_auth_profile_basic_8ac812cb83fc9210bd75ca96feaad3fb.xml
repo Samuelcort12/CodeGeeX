@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_auth_profile_basic">
+    <sys_auth_profile_basic action="INSERT_OR_UPDATE">
+        <name>1234</name>
+        <password>﷞﷟﷒14cc376393841210a0cffbf08bba1062﷬﷔1﷬﷭NcR0ViFz7Whgd-afclPYyg==i85SdlbGwy7mvZ0RnpwgD_5GTdOS7mxti5TZQ8fVRj2DIyrh1gcLXYd4yw5E03Ib_jMUNLx-qss=﷮﷯</password>
+        <sys_class_name>sys_auth_profile_basic</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-27 02:15:29</sys_created_on>
+        <sys_id>8ac812cb83fc9210bd75ca96feaad3fb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1234</sys_name>
+        <sys_package display_value="tt" source="x_1503976_tt">3b421ac383fc9210bd75ca96feaad344</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="tt">3b421ac383fc9210bd75ca96feaad344</sys_scope>
+        <sys_update_name>sys_auth_profile_basic_8ac812cb83fc9210bd75ca96feaad3fb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-27 02:15:29</sys_updated_on>
+        <username>Samuelcort12</username>
+    </sys_auth_profile_basic>
+</record_update>
